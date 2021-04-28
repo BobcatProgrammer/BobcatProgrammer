@@ -1,0 +1,16 @@
+name: Update Productive Box gist
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update gist
+        uses: maxam2017/productive-box@v1.1.1
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
+          GIST_ID: fb884fdad75f43b129b90336cfba2a4f
+          TIMEZONE: Europe/Berlin
