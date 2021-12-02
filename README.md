@@ -2,17 +2,16 @@
 
 ## :man_technologist: About me
 
-- :man_technologist: Cyber Security Lead Engineer @ [MediaMarktSaturn](https://mediamarktsaturn.com)
+- :man_technologist: Lead Cyber Security Engineer @ [MediaMarktSaturn](https://mediamarktsaturn.com)
 - :robot: Automate all the things!
 - :family_man_woman_boy: Family Father
-- :sailboat: Sailing on the sea
+- :sailboat: Sailing on the sea whenever I can
 
 ## 👷 Working on...
-- Setting up [splunk-operator](https://github.com/splunk/splunk-operator)
 - Automating collection of security data
 - Building a Security KPI Dashboard using Google BigQuery & Google Datastudio
 
-### :speech_balloon:Languages
+### :speech_balloon:Most used languages
 
 ![Python](https://img.shields.io/badge/-Python-333?logo=python&labelColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&labelColor=fff)
