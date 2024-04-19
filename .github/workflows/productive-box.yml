@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update gist
-        uses: maxam2017/productive-box@v1.1.3
+        uses: maxam2017/productive-box@v1.2.0
         env:
           GH_TOKEN: ${{ secrets.PAT }}
           GIST_ID: fb884fdad75f43b129b90336cfba2a4f
